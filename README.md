@@ -15,5 +15,7 @@
 <img width="947" alt="esaretin bedeli" src="https://user-images.githubusercontent.com/72253601/173592650-9efe1bf7-34e5-438f-81e1-aec43474dc44.png">
 <img width="935" alt="yeşil yol" src="https://user-images.githubusercontent.com/72253601/173592848-a5d7cf0e-5b04-4b8f-aa09-766757948db8.png">
 <img width="940" alt="3 aptal" src="https://user-images.githubusercontent.com/72253601/173592761-ed3b432c-2046-4d97-9c59-a541e9d43399.png">
+
 ## uygulama_5
+
 <img width="920" alt="filmler" src="https://user-images.githubusercontent.com/72253601/173930373-c099a2dc-0d76-4e8f-a004-2e8308b8d0b6.png">
