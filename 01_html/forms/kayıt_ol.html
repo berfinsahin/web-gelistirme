@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayıt Ol</title>
+</head>
+
+<body>
+
+    <form action="Registers.php">
+        <h1>Lütfen Formu Eksiksiz Doldurunuz.</h1>
+        <hr>
+        <table>
+
+            <tr>
+                <td>
+                    <h2>Hesap Bilgileriniz</h2>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label for="name">Kullanıcı Adı:</label></td>
+                <td><input type="text" id="name"></td>
+            </tr>
+
+            <tr>
+                <td><label for="eposta">Eposta</label></td>
+                <td><input type="email" id="eposta"></td>
+            </tr>
+
+            <tr>
+                <td><label for="tel">Telefon:</label></td>
+                <td><input type="number" id="tel"></td>
+            </tr>
+            <tr>
+                <td><label for="parola">Parola</label></td>
+                <td><input type="password" id="parola"></td>
+            </tr>
+
+
+            <tr>
+                <td>
+                    <h2>Kişisel Bilgileriniz</h2>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label for="name">Adınız:</label></td>
+                <td><input type="text" id="name"></td>
+            </tr>
+            <tr>
+                <td><label for="surname">Soyadınız:</label></td>
+                <td><input type="text" id="surname"></td>
+            </tr>
+            <tr>
+                <td><label for="cities">Şehir:</label></td>
+                <td><select id="cities">
+                        <option value="73">Şırnak</option>
+                        <option value="72">Batman</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label for="">Cinsiyet:</label></td>
+                <td><input type="radio" name="gender" id="kadın">
+                    <label for="kadın" name="gender">Kadın</label>
+                    <input type="radio" name="gender" id="erkek">
+                    <label for="erkek" name="gender">Erkek</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="">Hobileriniz:</label></td>
+                <td><input type="checkbox" id="cinema">
+                    <label for="cinema">Sinema</label>
+
+                    <input type="checkbox" id="travel">
+                    <label for="travel">Gezmek</label>
+
+                    <input type="checkbox" id="sports">
+                    <label for="sports">Spor</label>
+
+                    <input type="checkbox" id="book">
+                    <label for="book">Kitap</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for=""></label></td>
+                <td> <button type="submit">Kaydet</button></td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+
+</html>
