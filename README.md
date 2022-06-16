@@ -19,3 +19,7 @@
 ## uygulama_5
 
 <img width="920" alt="filmler" src="https://user-images.githubusercontent.com/72253601/173930373-c099a2dc-0d76-4e8f-a004-2e8308b8d0b6.png">
+
+## kayıt_ol
+
+<img width="877" alt="form" src="https://user-images.githubusercontent.com/72253601/174058645-762b9346-1d3e-46ba-b571-cae476d45b14.png">
